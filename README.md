@@ -1,3 +1,10 @@
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Sumitp92/Sumitp92/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 <h1 align="center">Hi All 👋 I'm Sumit Patil</h1>
 
 <p align="center">
@@ -65,13 +72,7 @@ Appointments | Ratings | Admin Dashboard
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitp92&layout=compact&theme=tokyonight" />
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Sumitp92/Sumitp92/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
