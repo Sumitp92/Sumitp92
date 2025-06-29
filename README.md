@@ -37,11 +37,12 @@
 `Docker` · `CI/CD` · `OAuth` · `Kubernetes` · `System Design`
 
 ---
-
 ## 🚀 Highlight Projects
 
 ### 🔹 [Expense Tracker](https://github.com/Sumitp92/EXPENSE-TRACKER1)
-JWT Auth · Razorpay · AWS S3  
+> 💼 **Tech:** Node.js · MongoDB · JWT · Razorpay · AWS S3  
+> 💡 A full-featured expense management app with secure login, premium upgrades, and AWS S3 report download.
+
 <p align="center">
   <img src="https://github.com/Sumitp92/EXPENSE-TRACKER1/blob/main/demo.gif" alt="Expense Tracker Demo" width="60%" />
 </p>
@@ -49,12 +50,14 @@ JWT Auth · Razorpay · AWS S3
 ---
 
 ### 🔹 [Group Chat App](https://github.com/Sumitp92/GROUP-CHAT-APP)
-Real-time messaging using `Socket.io` · Admin group management · Encrypted chat · MySQL
+> 💼 **Tech:** Node.js · MySQL · Socket.io · MVC  
+> 💬 Real-time messaging app with group creation, admin management, and end-to-end encryption.
 
 ---
 
-### 🔹 [Salon Booking System](https://github.com/Sumitp92/Salon-Appointment-Booking)
-Appointments · Ratings · Admin Dashboard · Service Management
+### 🔹 [Salon Appointment Booking](https://github.com/Sumitp92/Salon-Appointment-Booking)
+> 💼 **Tech:** Node.js · MySQL · Admin Dashboard  
+> 🧑‍💼 Users can book/cancel appointments, rate staff, and admins can manage services and schedules.
 
 ---
 
