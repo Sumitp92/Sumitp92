@@ -1,59 +1,60 @@
-## 🐍 Contribution Snake
-
+<!-- 🐍 Snake Animation -->
 <p align="center">
-  <img src="https://github.com/Sumitp92/Sumitp92/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Sumitp92/Sumitp92/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-
-<h1 align="center">Hi All 👋 I'm Sumit Patil</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Sumit Patil</span></h1>
 
 <p align="center">
-📦 Backend Developer | 🔐 API Specialist | ☁️ Cloud Learner
+  <b>📦 Backend Developer | 🔐 API Specialist | ☁️ DevOps Learner</b><br>
+  Turning scalable ideas into secure APIs and cloud-native systems.
 </p>
 
 <p align="center">
-<a href="https://github.com/Sumitp92">
-  <img src="https://komarev.com/ghpvc/?username=Sumitp92&label=Profile%20views&color=0e75b6&style=flat" alt="Sumitp92" />
-</a>
-&nbsp;
-<a href="https://github.com/Sumitp92?tab=followers">
-  <img src="https://img.shields.io/github/followers/Sumitp92?label=Followers&style=social" />
-</a>
+  <a href="https://github.com/Sumitp92">
+    <img src="https://komarev.com/ghpvc/?username=Sumitp92&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sumitp92?tab=followers">
+    <img src="https://img.shields.io/github/followers/Sumitp92?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
 
-### 📊 Backend Development
-Node.js · Express.js · REST APIs · MVC Architecture · JWT · Bcrypt · Postman
+### 🛠 Backend Development
+`Node.js` · `Express.js` · `REST APIs` · `MVC Architecture` · `JWT` · `Bcrypt` · `Postman`
 
 ### 💾 Databases & Cloud
-MongoDB · MySQL · AWS S3 · SQL
+`MongoDB` · `MySQL` · `AWS S3` · `SQL`
 
-### 🧠 Dev Tools & Practices
-Git · GitHub · VS Code · Postman · API Testing · Deployment
+### ⚙️ Dev Tools & Practices
+`Git` · `GitHub` · `VS Code` · `API Testing` · `Deployment`
 
-### 📚 Learning & DevOps
-Docker · CI/CD · System Design · OAuth · Kubernetes
+### 🧠 Learning & DevOps
+`Docker` · `CI/CD` · `OAuth` · `Kubernetes` · `System Design`
 
 ---
 
-## 🚀 Projects
+## 🚀 Highlight Projects
 
 ### 🔹 [Expense Tracker](https://github.com/Sumitp92/EXPENSE-TRACKER1)
-JWT Auth | Razorpay | AWS S3  
-![Expense Tracker Demo](https://github.com/Sumitp92/EXPENSE-TRACKER1/blob/main/demo.gif)
+JWT Auth · Razorpay · AWS S3  
+<p align="center">
+  <img src="https://github.com/Sumitp92/EXPENSE-TRACKER1/blob/main/demo.gif" alt="Expense Tracker Demo" width="60%" />
+</p>
 
 ---
 
 ### 🔹 [Group Chat App](https://github.com/Sumitp92/GROUP-CHAT-APP)
-Socket.io | Admin Groups | Encryption | MySQL
+Real-time messaging using `Socket.io` · Admin group management · Encrypted chat · MySQL
 
 ---
 
 ### 🔹 [Salon Booking System](https://github.com/Sumitp92/Salon-Appointment-Booking)
-Appointments | Ratings | Admin Dashboard
+Appointments · Ratings · Admin Dashboard · Service Management
 
 ---
 
@@ -68,22 +69,33 @@ Appointments | Ratings | Admin Dashboard
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumitp92&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitp92&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumitp92&show_icons=true&theme=tokyonight" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumitp92&layout=compact&theme=tokyonight" width="47%"/>
 </p>
 
+---
 
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sumitpatil20">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:patilsumit0026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Sumitp92">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+🔥 Let's build powerful backend systems with clean architecture and scalable performance!
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumitpatil20)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:patilsumit0026@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/Sumitp92)
-
----
-
-🔥 Let's build powerful backend systems together with clean architecture and scalable code!
 
 
